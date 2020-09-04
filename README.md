@@ -9,7 +9,7 @@
 (注册即送50g免费流量)
 2:https://www.xjycloud.pw
 【安装脚本】: 
-一键安装脚本：wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/CCChieh/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
+一键安装脚本：wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/zldaidai/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
 
 2.资源组ID:
 ibmcloud resource groups
