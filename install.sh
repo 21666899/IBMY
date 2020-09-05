@@ -59,7 +59,7 @@ EOF
 
 clone_repo(){
     echo "进行初始化。。。"
-    git clone https://github.com/21666899/IBMYes
+    git clone https://github.com/CCChieh/IBMYes
     cd IBMYes
     git submodule update --init --recursive
     cd v2ray-cloudfoundry/v2ray
@@ -104,7 +104,7 @@ install(){
     {
       "v": "2",
       "ps": "ibmyes",
-      "add": "ibmyes.eu-gb.cf.appdomain.cloud",
+      "add": "ibmyes.us-south.cf.appdomain.cloud",
       "port": "443",
       "id": "${UUID}",
       "aid": "4",
